@@ -1,2 +1,5 @@
 print ("ANIMALES MARINOS")
-print ("Tiburoenes, ballenas y delfines")
+print ("Tiburones, ballenas y delfines")
+
+print("ANIMALES DOMÉSTICOS")
+print ("Perros, gatos y hamsters")
